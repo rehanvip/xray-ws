@@ -42,17 +42,23 @@ wget -q -O /usr/bin/trialssh "https://raw.githubusercontent.com/rehanvip/xray-ws
 wget -q -O /etc/issue.net "https://raw.githubusercontent.com/rehanvip/xray-ws/main/issue.net"
 wget -q -O /root/versi "https://raw.githubusercontent.com/rehanvip/xray-ws/main/versibasic"
 wget -q -O /usr/bin/updatsc "https://raw.githubusercontent.com/rehanvip/xray-ws/main/update.sh"
+wget -q -O /usr/bin/renel "https://raw.githubusercontent.com/AndyyudaVPN/xray-ws/main/renel.sh"
+wget -q -O /usr/bin/cekl "https://raw.githubusercontent.com/AndyyudaVPN/xray-ws/main/cekl.sh"
+wget -q -O /usr/bin/dell "https://raw.githubusercontent.com/AndyyudaVPN/xray-ws/main/dell.sh"
 wget -q -O /usr/bin/backup "https://raw.githubusercontent.com/rehanvip/xray-ws/main/backup.sh"
 wget https://raw.githubusercontent.com/rehanvip/xray-ws/main/backup/set-br.sh
 bash set-br.sh
 chmod +x /usr/bin/menu-backup
-chmod +x /usr/bin/menu
+#chmod +x /usr/bin/menu
 chmod +x /usr/bin/add-ws
 chmod +x /usr/bin/add-ssws
 #chmod +x /usr/bin/add-socks
 chmod +x /usr/bin/add-vless
 chmod +x /usr/bin/add-tr
-#chmod +x /usr/bin/add-trgo
+chmod +x /usr/bin/addl
+chmod +x /usr/bin/cekl
+chmod +x /usr/bin/dell
+chmod +x /usr/bin/renel
 chmod +x /usr/bin/usernew
 chmod +x /usr/bin/autoreboot
 chmod +x /usr/bin/addhost
@@ -70,15 +76,16 @@ chmod +x /usr/bin/menu-vless
 chmod +x /usr/bin/menu-vmess
 chmod +x /usr/bin/menu-ss
 chmod +x /usr/bin/updatsc
-#chmod +x /usr/bin/bot
+chmod +x /usr/bin/slowdns
 chmod +x /usr/bin/menu-trojan
 chmod +x /usr/bin/trialssh
 chmod +x /usr/bin/menu-ssh
-chmod +x /usr/bin/menu-bckp
+chmod +x /usr/bin/menu-backup
 chmod +x /usr/bin/menu
 chmod +x /usr/bin/backup
 chmod +x /usr/bin/wbm
 chmod +x /usr/bin/xp
 chmod +x /usr/bin/changer
 chmod +x /usr/bin/fix
+chmod +x /usr/bin/bot
 #chmod +x /usr/bin/update
