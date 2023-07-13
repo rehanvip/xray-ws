@@ -102,7 +102,7 @@ echo -e "$green      Install Websocket              $NC"
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 sleep 2
 clear
-wget https://raw.githubusercontent.com/rehanvip/xray-ws/main/Insshws/insshws.sh && chmod +x insshws.sh && ./insshws.sh
+wget https://raw.githubusercontent.com/bagusid93/butuh/main/Insshws/insshws.sh && chmod +x insshws.sh && ./insshws.sh
 
 #exp
 cd /usr/bin
@@ -124,14 +124,14 @@ echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━�
 echo -e "$green      Install Xray              $NC"
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 sleep 2
-wget -q -O ins-xray.sh https://raw.githubusercontent.com/rehanvip/xray-ws/main/ins-xray.sh && chmod +x ins-xray.sh && ./ins-xray.sh
+wget -q -O ins-xray.sh https://raw.githubusercontent.com/Agunxzzz/XrayCol/main/ins-xray.sh && chmod +x ins-xray.sh && ./ins-xray.sh
 sleep 1
 wget -q -O senmenu.sh https://raw.githubusercontent.com/rehanvip/xray-ws/main/senmenu.sh && chmod +x senmenu.sh && ./senmenu.sh
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 echo -e "$green      Install slowdns              $NC"
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 sleep 2
-wget -q -O slowdns.sh https://raw.githubusercontent.com/Azigaming404/Autoscript-by-azi/main/autoscript-ssh-slowdns-main/slowdns.sh && chmod +x slowdns.sh && ./slowdns.sh
+wget -q -O slowdns.sh https://raw.githubusercontent.com/bagusid93/butuh/main/autoscript-ssh-slowdns-main/slowdns.sh && chmod +x slowdns.sh && ./slowdns.sh
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 echo -e "$green      Install openvpn              $NC"
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
